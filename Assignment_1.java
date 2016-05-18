@@ -6,7 +6,7 @@ public class reverse_array {
 		
         Scanner scan = new Scanner (System.in);
 		
-		System.out.println("Enter the size of the array : ");
+	    System.out.println("Enter the size of the array : ");
 	    int size = scan.nextInt();
 	    
 	    System.out.println("Enter the elements of the array : ");
